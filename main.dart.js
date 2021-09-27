@@ -28787,7 +28787,7 @@ g=t.z
 f=B.jU(P.a0(["Authorization","Bearer "+a4,"lang",d],h,g))
 p=4
 s=7
-return P.F(i.MH("https://api.konsolto.com/doctors/search",P.a0(["groups",c,"serviceAreas",a,"specialities",a3,"search",a2,"filters",b],h,t.X),f,g),$async$aOh)
+return P.F(i.MH("https://api.konsolto.com/doctors/search",P.a0(["groups",c,"serviceAreas",a,"specialities",a3==null?null:H.a([a3],t.s),"search",a2,"filters",b],h,t.X),f,g),$async$aOh)
 case 7:m=a6
 if(m.d!==200)throw H.c("error_try_again")
 if(!J.S(m.a,"success"))throw H.c("error_try_again")
