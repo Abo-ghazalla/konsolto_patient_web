@@ -97369,7 +97369,7 @@ $S:799}
 F.aHC.prototype={
 $2:function(a,b){var s=null
 b.toString
-return new T.Iv(new L.PR(b,s),H.a([new T.eK(450,"MOBILE",C.fb,1),new T.eK(800,"TABLET",C.c6,1),new T.eK(1000,"TABLET",C.c6,1),new T.eK(1200,"DESKTOP",C.fb,1),new T.eK(2460,"4K",C.c6,1)],t.a3),s,s,450,1200,s,!0,1,s,s,s,s,s,new T.tr(new P.h(4294309365),s,s),s,s,!1,C.cX,!1,s)},
+return new T.Iv(new L.PR(b,s),H.a([new T.eK(420,"MOBILE",C.fb,1),new T.eK(800,"TABLET",C.c6,1),new T.eK(1000,"TABLET",C.c6,1),new T.eK(1200,"DESKTOP",C.fb,1),new T.eK(2460,"4K",C.c6,1)],t.a3),s,s,320,2200,s,!0,1,s,s,s,s,s,new T.tr(new P.h(4294309365),s,s),s,s,!1,C.cX,!1,s)},
 $S:47}
 F.iQ.prototype={
 dr:function(){return F.aTs(this)}}
