@@ -96370,7 +96370,7 @@ $S:678}
 M.pX.prototype={
 F:function(a,b){var s,r,q=null
 if(!this.d){s=$.cN
-s=R.iK(!1,q,!0,U.Uv("assets/images/logo.png",q,q,(s==null?H.b(H.e("_instance")):s).gjq()*0.17),q,!0,q,q,q,q,q,q,q,q,q,q,new M.aoF(b),q,q,q,q,q)}else s=q
+s=R.iK(!1,q,!0,U.Uv("assets/images/logo.png",q,q,(s==null?H.b(H.e("_instance")):s).gjq()*0.22),q,!0,q,q,q,q,q,q,q,q,q,q,new M.aoF(b),q,q,q,q,q)}else s=q
 r=H.a([],t.p)
 return new E.CG(s,this.f!==!1,this.c,r,4,C.k,new T.fj(C.u,q,q),new P.P(1/0,56),q,q)}}
 M.aoF.prototype={
