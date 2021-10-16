@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "97b260ef96ed9c292abf9664ffd7b154",
+  "assets/AssetManifest.json": "3bb375ffeca86eb408cdf4430963fea3",
 "assets/assets/fonts/Roboto-Bold.ttf": "9ece5b48963bbc96309220952cda38aa",
 "assets/assets/fonts/Roboto-Medium.ttf": "b2d307df606f23cb14e6483039e2b7fa",
 "assets/assets/fonts/Roboto-Regular.ttf": "f36638c2135b71e5a623dca52b611173",
+"assets/assets/images/2.0x/arabic_logo.png": "b2e870ed9a9e0c40ced431dae4c49e97",
 "assets/assets/images/2.0x/boarding1.png": "a59b9fcc250c369465ef2435323153b7",
 "assets/assets/images/2.0x/boarding2.png": "ed7a2d2f4207de78708263bb59e90430",
 "assets/assets/images/2.0x/boarding3.png": "b61f180a54955232d17497935a265fc2",
@@ -16,6 +17,7 @@ const RESOURCES = {
 "assets/assets/images/2.0x/logo.png": "2e1a6fad4d33921f7ff1282123ad74a1",
 "assets/assets/images/2.0x/pharmacy.png": "ab99a6b05affc5fba1915d6bf320028d",
 "assets/assets/images/2.0x/redeem_success.png": "06ab83a902e120ee602eb70d52ece2bc",
+"assets/assets/images/3.0x/arabic_logo.png": "de18800a3163d9b2cbd11f35bdd34eac",
 "assets/assets/images/3.0x/boarding1.png": "195e22ac3d759a79755a3f44e156a5c4",
 "assets/assets/images/3.0x/boarding2.png": "1bab9a370ae40befe3465db81616ec98",
 "assets/assets/images/3.0x/boarding3.png": "ce3c0274c984b5c0940d7626c7020df8",
@@ -26,6 +28,7 @@ const RESOURCES = {
 "assets/assets/images/3.0x/pharmacy.png": "347351404e2f45e4839f666244db88d1",
 "assets/assets/images/3.0x/redeem_success.png": "fec395071f01f5c8d0d5e6ef82515b3b",
 "assets/assets/images/address.svg": "26b5c0aba2f4f6d5a5048248d39183e7",
+"assets/assets/images/arabic_logo.png": "6b0bf51175c5b79717e7ddafa9166b63",
 "assets/assets/images/boarding1.png": "f0f47701af22030b3b5647c0028c8184",
 "assets/assets/images/boarding2.png": "b65f35e46ee57e1c6c4e8a3bd131002f",
 "assets/assets/images/boarding3.png": "d64fb359c3b0c857d0c6a239bb7c12ce",
@@ -69,9 +72,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "fa81643cfb5191e10343fa4617787cea",
-"/": "fa81643cfb5191e10343fa4617787cea",
-"main.dart.js": "9bb8b6168f5ff2691c1a0d36c553566e",
+"index.html": "7637072c1e4ae5debc37a77b945b95c3",
+"/": "7637072c1e4ae5debc37a77b945b95c3",
+"main.dart.js": "ba95779b3cf6569ac14395db8be0be0f",
 "manifest.json": "c61be6c71392f19918d685ce24471255",
 "version.json": "e9d60ee4fcbe2bc2c45e987d9bee87c1"
 };
