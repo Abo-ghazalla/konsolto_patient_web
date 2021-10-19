@@ -118,5 +118,8 @@
     "area":"Area",
     "choose_speciality":"Choose Speciality",
     "choose_area":"Choose Area",
-    "doc_name":"Doctor Name"
+    "doc_name":"Doctor Name",
+    "no_area_or_speciality":"Please select Area or Speciality",
+    "scan":"Scan",
+    "cart":"Cart"
 }
