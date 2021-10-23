@@ -119,7 +119,14 @@
     "home": "الصفحة الرئيسية",
     "boarding1": "احصل على دورك رقميا في العيادة",
     "get": "أحصل على",
-    "no_area_or_speciality":"اختار منطقة أو تخصص",
-    "scan":"Scan",
-    "cart":"Cart"
+    "no_area_or_speciality":"من فضلك أختار المنطقة او التخصص",
+    "scan":"صور",
+    "cart":"عربة التسوق",
+    "chat_with_pharm":"تحدث مع صيدلي",
+    "desktop_search_txt1":"اختار أفضل دكتور",
+    "desktop_search_txt2":"قريب منك",
+    "search_for":"أنا أبحث عن",
+    "in_region":"في منطقة",
+    "doc_name_hint":"أسم الكتور أو العيادة أو العرض",
+    "write":"أكتب"
 }

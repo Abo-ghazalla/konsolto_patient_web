@@ -121,5 +121,12 @@
     "doc_name":"Doctor Name",
     "no_area_or_speciality":"Please select Area or Speciality",
     "scan":"Scan",
-    "cart":"Cart"
+    "cart":"Cart",
+    "chat_with_pharm":"Chat with Pharmacist",
+    "desktop_search_txt1":"Book Best",
+    "desktop_search_txt2":"Doctors Near you",
+    "write":"Write",
+    "search_for":"Search for",
+    "in_region":"In Region",
+    "doc_name_hint":"Doctor Name or Clinic"
 }
