@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "64b905d654c296c2a04f7da1a394a9bb",
+  "assets/AssetManifest.json": "d3bef570b91cff69fe0a9c5a615676a1",
 "assets/assets/fonts/Roboto-Bold.ttf": "9ece5b48963bbc96309220952cda38aa",
 "assets/assets/fonts/Roboto-Medium.ttf": "b2d307df606f23cb14e6483039e2b7fa",
 "assets/assets/fonts/Roboto-Regular.ttf": "f36638c2135b71e5a623dca52b611173",
@@ -17,7 +17,6 @@ const RESOURCES = {
 "assets/assets/images/2.0x/boarding4.png": "b96c254c919388204f5dcfa594461163",
 "assets/assets/images/2.0x/chat.png": "ab99a6b05affc5fba1915d6bf320028d",
 "assets/assets/images/2.0x/doc_card.png": "44407b35952b924bb3fd9be54ef7f417",
-"assets/assets/images/2.0x/home_search.png": "0f71b55a39e3bd303a5df75dbe8a5afa",
 "assets/assets/images/2.0x/logo.png": "2e1a6fad4d33921f7ff1282123ad74a1",
 "assets/assets/images/2.0x/pharmacy.png": "28142f8c997d90b044d68dccacc154b2",
 "assets/assets/images/2.0x/redeem_success.png": "06ab83a902e120ee602eb70d52ece2bc",
@@ -46,7 +45,7 @@ const RESOURCES = {
 "assets/assets/images/filter_icon.svg": "f2b6cfe6149064f4301fb7041fa347f9",
 "assets/assets/images/gift-box.svg": "282805a9c47707178b00d0fa0fdda960",
 "assets/assets/images/home.svg": "6554fd9dc1ec4f3228239894c96ebfbc",
-"assets/assets/images/home_search.png": "2bb603ddb44af044c9782690f6a38fe8",
+"assets/assets/images/home_search.png": "101423d93bd27c5295f385bd845d8264",
 "assets/assets/images/logo.png": "57bcff64d182b48f191cd83c6c60a988",
 "assets/assets/images/money_icon.svg": "f3f9a1f06e3894fc625adc4b2af40e78",
 "assets/assets/images/more.svg": "b82f7c77bfe7c90f95b59e9202304c97",
@@ -77,12 +76,12 @@ const RESOURCES = {
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/en-US.json": "5bd908341879a431441c8208ae30e4fd",
 "assets/packages/easy_localization/i18n/en.json": "5bd908341879a431441c8208ae30e4fd",
-"favicon.ico": "6dcdd8ea88fe2f5d8cabbc08871e2c15",
+"favicon.ico": "ea210be2c3e998186265dfef9430dab3",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9f463f3c5f58a86b39bd98f84f29a586",
-"/": "9f463f3c5f58a86b39bd98f84f29a586",
-"main.dart.js": "638944ecf4383e6e34b75db4518634a8",
+"index.html": "4a1588f429d819abb8a4a78d20879d46",
+"/": "4a1588f429d819abb8a4a78d20879d46",
+"main.dart.js": "e6c54a1e9a18edecc052cc19223ac5ca",
 "manifest.json": "c61be6c71392f19918d685ce24471255",
 "version.json": "e9d60ee4fcbe2bc2c45e987d9bee87c1"
 };
